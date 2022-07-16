@@ -6,4 +6,4 @@ The data used in this project is provided by [The World Bank](https://www.worldb
 
 The sql queries were run in jupyter notebook.
 
-Now, grab some popcorn and let's [EXPLORE]() :smile: .
+Now, grab some popcorn and let's [EXPLORE](https://github.com/Data-Dr-hub/SQL-Analysis-Project/blob/74813e5a5673897b51f9a379ac29292aab97c143/notebook.ipynb) :smile: .
