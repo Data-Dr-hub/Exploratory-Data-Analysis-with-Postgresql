@@ -12,7 +12,7 @@ Clauses and Concepts applied include:
 - GROUP BY
 - ORDER BY
 - COUNT (DISTINCT())
--AVG()
+- AVG()
 - ROUND()
 - Subqueries
 
